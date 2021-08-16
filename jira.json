@@ -1,0 +1,34 @@
+[
+  {
+    "summary": "Measure performance",
+    "tag": "HND-4395"
+  },
+  {
+    "summary": "Make UAT testable again",
+    "tag": "HND-4277"
+  },
+  {
+    "summary": "v2 Error rate",
+    "tag": "HND-4341"
+  },
+  {
+    "summary": "Handling uncertain data values",
+    "tag": "HND-4296"
+  },
+  {
+    "summary": "Documenting and diagramming",
+    "tag": "HND-4394"
+  },
+  {
+    "summary": "Handle Optional non-existent lists",
+    "tag": "HND-4316"
+  },
+  {
+    "summary": "UAT prep",
+    "tag": "HND-4277"
+  },
+  {
+    "summary": "Development Environment",
+    "tag": "HND-3855"
+  }
+]
